@@ -1,0 +1,5 @@
+package cartas.tipos;
+
+public enum Figura {
+CARTA_MAS_ALTA,PAREJA,DOBLE_PAREJA,TRIO,ESCALERA,COLOR,FULL,POKER,ESCALERA_DE_COLOR
+}
